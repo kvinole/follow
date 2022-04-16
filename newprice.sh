@@ -1,5 +1,5 @@
  #! /bin/bash
-stax=.07
+stax=.08
 
 echo "Part cost"
 
